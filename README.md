@@ -2,7 +2,7 @@
 
 ![instacart logo](./instacart-logo.png)
 
-Objective: to design a data model for Instacart's (American retail company) order management system.
+Objective: to design a data model for [Instacart's](https://www.instacart.com/) order management system.
 
 **Data Model Design**
 ![order management data model design](./instacart_order_management_data_model.png)
@@ -18,7 +18,7 @@ Objective: to design a data model for Instacart's (American retail company) orde
 For detailed information on the data tables, please refer to [dataset source on Kaggle](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data).
 
 **Files**
-- _instacart_data_model.sql_: code to create tables along with column constraints
-- _instacart_order_management_data_model.ipynb_: code to create tables with constraints and to bulk upload the flat file data to the database tables
+- _instacart_data_model.sql_ : code to create tables along with column constraints
+- _instacart_order_management_data_model.ipynb_ : code to create tables with constraints and to bulk upload the flat file data to the database tables
 
 **NB**: we have used the opensource _Postgresql_ as our choice of database.
