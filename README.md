@@ -1,11 +1,11 @@
 # Instacart's Order Management Data Model
 
-![instacart logo](./instacart-logo.png)
+![instacart logo](./assets/instacart-logo.png)
 
 Objective: to design a data model for [Instacart's](https://www.instacart.com/) order management system.
 
 **Data Model Design**
-![order management data model design](./instacart_order_management_data_model.png)
+![order management data model design](./assets/instacart_order_management_data_model.png)
 
 **Tables:**
 
